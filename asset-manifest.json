@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5b7824d.css",
-    "main.js": "/static/js/main.21c7855d.js",
+    "main.css": "/static/css/main.9ff480a2.css",
+    "main.js": "/static/js/main.41f5f331.js",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/FeelingProud.png": "/static/media/FeelingProud.af3c7991fe572583bc22.png",
+    "static/media/Segoe_UI_Bold_Italic.woff": "/static/media/Segoe_UI_Bold_Italic.04ca0df8c9e54c81b1a5.woff",
+    "static/media/Segoe_UI_Italic.woff": "/static/media/Segoe_UI_Italic.eb9dca895cf2de5deeda.woff",
+    "static/media/Segoe_UI_Bold.woff": "/static/media/Segoe_UI_Bold.21ecd6932d8c6e2ae14e.woff",
+    "static/media/Segoe_UI.woff": "/static/media/Segoe_UI.293e692f583af77a347b.woff",
     "index.html": "/index.html",
-    "main.c5b7824d.css.map": "/static/css/main.c5b7824d.css.map",
-    "main.21c7855d.js.map": "/static/js/main.21c7855d.js.map"
+    "main.9ff480a2.css.map": "/static/css/main.9ff480a2.css.map",
+    "main.41f5f331.js.map": "/static/js/main.41f5f331.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5b7824d.css",
-    "static/js/main.21c7855d.js"
+    "static/css/main.9ff480a2.css",
+    "static/js/main.41f5f331.js"
   ]
 }
