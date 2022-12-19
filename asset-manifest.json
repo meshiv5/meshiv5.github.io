@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.95f88e64.css",
-    "main.js": "/static/js/main.24f958a0.js",
+    "main.css": "/static/css/main.37ca0d2f.css",
+    "main.js": "/static/js/main.e657c27a.js",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/CareerProgress.png": "/static/media/CareerProgress.ac652609be1193023fd5.png",
     "static/media/Emails.png": "/static/media/Emails.d0b0a395bad3532e8522.png",
@@ -14,11 +14,11 @@
     "static/media/Segoe_UI_Bold.woff": "/static/media/Segoe_UI_Bold.21ecd6932d8c6e2ae14e.woff",
     "static/media/Segoe_UI.woff": "/static/media/Segoe_UI.293e692f583af77a347b.woff",
     "index.html": "/index.html",
-    "main.95f88e64.css.map": "/static/css/main.95f88e64.css.map",
-    "main.24f958a0.js.map": "/static/js/main.24f958a0.js.map"
+    "main.37ca0d2f.css.map": "/static/css/main.37ca0d2f.css.map",
+    "main.e657c27a.js.map": "/static/js/main.e657c27a.js.map"
   },
   "entrypoints": [
-    "static/css/main.95f88e64.css",
-    "static/js/main.24f958a0.js"
+    "static/css/main.37ca0d2f.css",
+    "static/js/main.e657c27a.js"
   ]
 }
