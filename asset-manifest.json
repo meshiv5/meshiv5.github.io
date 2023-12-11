@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.37ca0d2f.css",
-    "main.js": "/static/js/main.e1d9e4fa.js",
+    "main.css": "/static/css/main.60197c0f.css",
+    "main.js": "/static/js/main.3013493a.js",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/CareerProgress.png": "/static/media/CareerProgress.ac652609be1193023fd5.png",
     "static/media/Emails.png": "/static/media/Emails.d0b0a395bad3532e8522.png",
     "static/media/Heatmap.png": "/static/media/Heatmap.c12603dae20fcaf4214e.png",
-    "static/media/Programming.png": "/static/media/Programming.a8d6ad8a43cc103cb973.png",
     "static/media/FeelingProud.png": "/static/media/FeelingProud.af3c7991fe572583bc22.png",
     "static/media/Segoe_UI_Bold_Italic.woff": "/static/media/Segoe_UI_Bold_Italic.04ca0df8c9e54c81b1a5.woff",
     "static/media/Education.png": "/static/media/Education.f805233ab83a3e4f6bfe.png",
@@ -14,11 +13,11 @@
     "static/media/Segoe_UI_Bold.woff": "/static/media/Segoe_UI_Bold.21ecd6932d8c6e2ae14e.woff",
     "static/media/Segoe_UI.woff": "/static/media/Segoe_UI.293e692f583af77a347b.woff",
     "index.html": "/index.html",
-    "main.37ca0d2f.css.map": "/static/css/main.37ca0d2f.css.map",
-    "main.e1d9e4fa.js.map": "/static/js/main.e1d9e4fa.js.map"
+    "main.60197c0f.css.map": "/static/css/main.60197c0f.css.map",
+    "main.3013493a.js.map": "/static/js/main.3013493a.js.map"
   },
   "entrypoints": [
-    "static/css/main.37ca0d2f.css",
-    "static/js/main.e1d9e4fa.js"
+    "static/css/main.60197c0f.css",
+    "static/js/main.3013493a.js"
   ]
 }
